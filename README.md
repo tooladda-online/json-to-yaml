@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔄 JSON to YAML
+# 🧩 JSON to YAML
 
 ### Use JSON to YAML free on ToolAdda — quick, accurate, and browser-based.
 
